@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chatapp</string>
+    <string name="textview_sql">TextView</string>
+    <string name="textview_sql1">TextView</string>
+    <string name="name_sql">Name</string>
+    <string name="name_sql1">Name</string>
+    <string name="name_sql2">Name</string>
+    <string name="textview_sql2">TextView</string>
+</resources>
